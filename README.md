@@ -1,4 +1,4 @@
 # restgolang
 
 
-Make some simple chat bot using goroutine and websocket 
+Make CRUD simple using mux handler golang
